@@ -1,5 +1,6 @@
 ### Hi, I'm Abby👋      
 
+![Repository Banner](Banner.png)
 
 ### I'm currently learning how to code in SQL and am working Projects:
   🔹 [**Data Analyst Bootcamp** by AlextheAnalyst](https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)                                                        
