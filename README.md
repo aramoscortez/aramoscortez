@@ -13,4 +13,9 @@
   - *Beginning R: The Statistical Programming Language* by Dr. Mark Gardener
   - *Introductory Statistics with R* by Peter Dalgaard
 
+### Here are some books📖 I am currently reading:
+  - *Data Analytics Made Accessible* by Dr. Anil Maheshwari
+  - *Storytelling with Data: A Data Visualization Guide for Business Professionals* by Cole Nussbaumer Knaflic
+  - *Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking* by Foster Provost and Tom Fawcett
+
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=aramoscortez&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
