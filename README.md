@@ -1,6 +1,4 @@
-### Hi, I'm Abby👋      
-![Repository Banner](Banner.png)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Hi, I am Abicenia👋      
 ### I'm currently learning Data Analytics and am working on Projects:
   -  Please feel free to take a look at my [**Data Analytics Portfolio!**](https://github.com/aramoscortez/Portfolio-Projects)
   -  Also, make sure to check out my [**Schoolwork Portfolio!**](https://github.com/aramoscortez/Schoolwork)
