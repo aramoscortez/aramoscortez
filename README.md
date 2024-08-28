@@ -14,7 +14,7 @@
   
   <p>  
     &nbsp; <a href="https://public.tableau.com/app/profile/abicenia.ramos.cortez" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/tableau-software.png" width="40" /></a>
-    &nbsp; <a href="https://www.linkedin.com/in/abbyramoscortez/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+    &nbsp; <a href="https://www.linkedin.com/in/aramoscortez/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
     &nbsp; <a href="https://app.joinhandshake.com/stu/users/18516834" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/handshake-logo.png" width="43" /></a>
     &nbsp; <a href="mailto:abbyrc11@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/new-post--v1.png"  width="50" /></a>
   </p> 
